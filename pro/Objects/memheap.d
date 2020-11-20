@@ -1,0 +1,12 @@
+.\pro\objects\memheap.o: third_party\rt-thread-sorted\src\memheap.c
+.\pro\objects\memheap.o: .\third_party\rt-thread-sorted\include\rthw.h
+.\pro\objects\memheap.o: .\third_party\rt-thread-sorted\include\rtthread.h
+.\pro\objects\memheap.o: .\third_party\rt-thread-sorted\rtconfig.h
+.\pro\objects\memheap.o: .\third_party\rt-thread-sorted\include\RTE_Components.h
+.\pro\objects\memheap.o: .\third_party\rt-thread-sorted\include\rtdebug.h
+.\pro\objects\memheap.o: .\third_party\rt-thread-sorted\include\rtdef.h
+.\pro\objects\memheap.o: E:\software\Keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\pro\objects\memheap.o: .\third_party\rt-thread-sorted\include\rtservice.h
+.\pro\objects\memheap.o: .\third_party\rt-thread-sorted\include\rtm.h
+.\pro\objects\memheap.o: .\third_party\rt-thread-sorted\include\rtthread.h
+.\pro\objects\memheap.o: .\third_party\rt-thread-sorted\finsh\finsh_api.h
