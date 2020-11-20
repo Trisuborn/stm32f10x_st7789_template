@@ -32,6 +32,7 @@
 .\pro\objects\iic_conf.o: E:\software\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\pro\objects\iic_conf.o: .\driver\usart\usart.h
 .\pro\objects\iic_conf.o: .\main\main.h
+.\pro\objects\iic_conf.o: .\inc\pro_conf.h
 .\pro\objects\iic_conf.o: .\third_party\rt-thread-sorted\include\rtthread.h
 .\pro\objects\iic_conf.o: .\third_party\rt-thread-sorted\rtconfig.h
 .\pro\objects\iic_conf.o: .\third_party\rt-thread-sorted\include\RTE_Components.h

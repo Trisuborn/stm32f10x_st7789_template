@@ -30,6 +30,7 @@
 ".\pro\objects\usart.o"
 ".\pro\objects\ft6236.o"
 ".\pro\objects\iic_conf.o"
+".\pro\objects\lcd_st7789.o"
 ".\pro\objects\clock.o"
 ".\pro\objects\components.o"
 ".\pro\objects\cpu.o"

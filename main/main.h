@@ -3,9 +3,7 @@
 
 #include "stm32f10x_conf.h"
 #include "usart.h"
-#include <rtthread.h>
+#include "pro_conf.h"
 
-#define DEBUG_PRINT     printf
-#define DELAY           rt_thread_mdelay
 
 #endif

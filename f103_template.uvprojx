@@ -339,7 +339,7 @@
               <MiscControls></MiscControls>
               <Define>STM32F10X_MD,USE_STDPERIPH_DRIVER</Define>
               <Undefine></Undefine>
-              <IncludePath>.\core;.\inc;.\lib\inc;.\main;.\driver\usart;.\third_party\rt-thread-sorted;.\third_party\rt-thread-sorted\src;.\third_party\rt-thread-sorted\include;.\third_party\rt-thread-sorted\finsh;.\driver\iic;.\driver\touch\CTP</IncludePath>
+              <IncludePath>.\core;.\inc;.\lib\inc;.\main;.\driver\iic;.\driver\usart;.\driver\lcd_st7789;.\driver\touch\CTP;.\third_party\rt-thread-sorted;.\third_party\rt-thread-sorted\src;.\third_party\rt-thread-sorted\include;.\third_party\rt-thread-sorted\finsh</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -582,6 +582,11 @@
               <FileName>iic_conf.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\driver\iic\iic_conf.c</FilePath>
+            </File>
+            <File>
+              <FileName>lcd_st7789.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\driver\lcd_st7789\lcd_st7789.c</FilePath>
             </File>
           </Files>
         </Group>

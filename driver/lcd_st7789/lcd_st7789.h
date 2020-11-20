@@ -6,7 +6,7 @@ extern "C" {
 #endif
 
 /* includes */
-#include "stm32f4xx_conf.h"
+#include "stm32f10x_conf.h"
 #include "pro_conf.h"
 
 

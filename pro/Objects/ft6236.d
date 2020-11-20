@@ -33,6 +33,7 @@
 .\pro\objects\ft6236.o: driver\touch\CTP\ft6236.h
 .\pro\objects\ft6236.o: .\main\main.h
 .\pro\objects\ft6236.o: .\driver\usart\usart.h
+.\pro\objects\ft6236.o: .\inc\pro_conf.h
 .\pro\objects\ft6236.o: .\third_party\rt-thread-sorted\include\rtthread.h
 .\pro\objects\ft6236.o: .\third_party\rt-thread-sorted\rtconfig.h
 .\pro\objects\ft6236.o: .\third_party\rt-thread-sorted\include\RTE_Components.h

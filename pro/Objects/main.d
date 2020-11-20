@@ -31,6 +31,7 @@
 .\pro\objects\main.o: .\lib\inc\misc.h
 .\pro\objects\main.o: .\driver\usart\usart.h
 .\pro\objects\main.o: E:\software\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
+.\pro\objects\main.o: .\inc\pro_conf.h
 .\pro\objects\main.o: .\third_party\rt-thread-sorted\include\rtthread.h
 .\pro\objects\main.o: .\third_party\rt-thread-sorted\rtconfig.h
 .\pro\objects\main.o: .\third_party\rt-thread-sorted\include\RTE_Components.h
@@ -42,3 +43,4 @@
 .\pro\objects\main.o: .\third_party\rt-thread-sorted\include\rtthread.h
 .\pro\objects\main.o: .\third_party\rt-thread-sorted\finsh\finsh_api.h
 .\pro\objects\main.o: .\driver\touch\CTP\ft6236.h
+.\pro\objects\main.o: .\driver\lcd_st7789\lcd_st7789.h
